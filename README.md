@@ -1,6 +1,7 @@
 # Flippy - Your personalized voicebot
 
 This bot can help you find your order,start a return, subscribe to our e-mails, find the best promotions and discounts,even see if we carry your desired shoes and cancel your ongoing order. Built using Rasa 2.3.1
+This repo contains the chatbot
 
 ## Install dependencies
 
